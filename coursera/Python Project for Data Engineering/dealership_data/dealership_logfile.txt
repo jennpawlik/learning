@@ -1,0 +1,8 @@
+00-32-21-Nov-27-2021,ETL process started
+00-32-22-Nov-27-2021,Extract step started
+00-32-22-Nov-27-2021,Extract step completed
+00-32-22-Nov-27-2021,Transform step started
+00-32-22-Nov-27-2021,Transform step completed
+00-32-22-Nov-27-2021,Load step started
+00-32-22-Nov-27-2021,Load step completed
+00-32-22-Nov-27-2021,ETL process completed
